@@ -11,15 +11,64 @@ My goal is to secure an entry-level Cybersecurity Analyst or SOC Analyst positio
 [Provide skills and associated project. Make sure to hyperlink the project]
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## 🛠️ Skills
+
+### 🔹 Security Concepts & Frameworks
+- MITRE ATT&CK
+- Cyber Kill Chain
+- Pyramid of Pain
+- NIST SP 800-53
+- ISO 27001
+- PCI DSS
+- HIPAA
+- Risk Management (Acceptance, Mitigation, Avoidance, Transference)
+- Incident Response Lifecycle
+
+---
+
+### 🔹 Technical Tools
+- **SIEM:** Splunk
+- **Threat Intelligence:** MISP
+- **Vulnerability Scanning:** Tenable Nessus
+- **Endpoint & Network Defense:** EDR, DLP, IDS/IPS, HIDS/HIPS, NIDS/NIPS
+- **Forensics & Analysis:** VirusTotal, WHOIS, URLhaus, URLScan, Sublime Text
+
+---
+
+### 🔹 Networking & Protocols
+- TCP, UDP, ICMP, DNS, SMTP
+- OSI Model Fundamentals
+
+---
+
+### 🔹 Operating Systems
+- Windows 10/11
+- Ubuntu Linux
+- Kali Linux
+
+---
+
+### 🔹 Programming & Scripting
+- Python
+- SQL
+- SPL (Splunk Search Processing Language)
+
+---
+
+### 🔹 Virtualization
+- Oracle VM VirtualBox
+
+---
+
+### 🔹 Office & Collaboration
+- Microsoft Office 365 (Word, Excel, PowerPoint, OneDrive)
+- SharePoint
+- Google Workspace
+
+---
+
+### 🔹 Email Security
+- SPF, DKIM, DMARC configuration and analysis
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link]
@@ -42,7 +91,13 @@ My goal is to secure an entry-level Cybersecurity Analyst or SOC Analyst positio
 </div>
 
 ## Projects
-- <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>
-- Detection Lab
-- SOC Automation Project
-- Test Project
+| Skills from project                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
