@@ -76,8 +76,6 @@ My goal is to secure an entry-level Cybersecurity Analyst or SOC Analyst positio
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link]
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Blue%20Team%20Level%201-007ACC?&style=for-the-badge&logo=Security&logoColor=white" />
