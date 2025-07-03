@@ -1,16 +1,11 @@
-# Hello, I'm Ghulam
+# Hello visitor, I'm Ghulam and thank you coming to my portifolio!
 <a href="https://www.linkedin.com/in/ghulam-mustafa-25b9b166/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Hello, I'm a aspiring Cybersecurity Analyst graduated with a Bachelor of Science in Information Technology, Concentration in Cybersecurity, from George Mason University in December 2024. I bring strong hands-on experience in SIEM tools (Splunk), phishing analysis, threat intelligence, and vulnerability scanning. Skilled in monitoring security events, conducting incident response, and applying industry-standard frameworks such as MITRE ATT&CK, Lookheed CyberKill Chain, and NIST 800-53. Demonstrates a proactive approach to learning and problem-solving with practical lab experience in simulated SOC environments and real-world tools. Committed to contributing to a secure digital landscape through teamwork, technical expertise, and continuous professional development.
 
 ## Objective
-[Provide Objective]
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My goal is to secure an entry-level Cybersecurity Analyst or SOC Analyst position where I can apply my technical skills and knowledge of security monitoring, incident response, and threat intelligence to protect organizational assets. My goal is to grow within a dynamic security operations or IT security team while advancing toward specialized roles in incident response, malware analysis, threat hunting, and digital forensics.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project]
